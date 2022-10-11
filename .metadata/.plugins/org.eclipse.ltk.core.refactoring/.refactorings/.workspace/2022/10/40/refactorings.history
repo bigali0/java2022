@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;oopWithLayeredApp&apos; to &apos;oopWithNLayeredApp&apos;&#x0D;&#x0A;- Original element: &apos;oopWithLayeredApp&apos;&#x0D;&#x0A;- Renamed element: &apos;oopWithLayeredApp&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;oopWithLayeredApp&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=oopWithLayeredApp" name="oopWithNLayeredApp" references="true" stamp="1664994362740" version="1.0"/>
+</session>
